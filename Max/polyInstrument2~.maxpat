@@ -43,7 +43,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 110.0, 419.0, 76.0, 22.0 ],
+					"patching_rect" : [ 159.0, 407.0, 76.0, 22.0 ],
 					"style" : "",
 					"text" : "delay 10000"
 				}
@@ -354,7 +354,7 @@
 					"destination" : [ "obj-4", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 119.5, 489.0, 1135.5, 489.0 ],
+					"midpoints" : [ 168.5, 489.0, 1135.5, 489.0 ],
 					"source" : [ "obj-25", 0 ]
 				}
 
@@ -364,7 +364,7 @@
 					"destination" : [ "obj-7", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 119.5, 542.0, 398.5, 542.0 ],
+					"midpoints" : [ 168.5, 542.0, 398.5, 542.0 ],
 					"source" : [ "obj-25", 0 ]
 				}
 
