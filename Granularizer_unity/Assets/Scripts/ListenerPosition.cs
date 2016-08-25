@@ -18,7 +18,7 @@ public class ListenerPosition : MonoBehaviour {
 	void Update () {
         pos = new Vector3(gameObject.transform.position.x, gameObject.transform.position.y, gameObject.transform.position.z);
         rot = gameObject.transform.rotation.eulerAngles;
-        if (pos != lastPos || rot != lastRot)
+        if ((pos != lastPos || rot != lastRot) && Time.frameCount % 3 == 0)
         {
             //rot.x = pitch
             //rot.y = yaw
